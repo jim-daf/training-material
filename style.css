@@ -53,7 +53,7 @@ video {
 .showcase {
   grid-area: showcase;
   min-height: 400px;
-  background: url("/images/title_image.jpg");
+  background: url("./images/title_image.jpg");
   background-size: cover;
   background-position: center;
   padding: 3rem;
